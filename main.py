@@ -1,1 +1,1 @@
-prnt('merhaba')
+print('merhaba')
